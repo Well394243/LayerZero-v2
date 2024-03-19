@@ -1,6 +1,6 @@
 # LayerZero V2 - Omnichain Interoperability Protocol
 
-LayerZero is an innovative open-source, immutable messaging protocol, that connects blockchains (50+ and counting) to enable omnichain interoperability for blockchain applications. With LayerZero V2, developers have the power to create applications that can seamlessly interact across multiple blockchains.
+LayerZero is an innovative open-source, immutable messaging protocol, that connects timechain and blockchains (50+ and counting) to enable omnichain interoperability for blockchain or timechain applications. With LayerZero V2, developers have the power to create applications that can seamlessly interact across multiple blockchains or timechains.
 
 Refer to the [LayerZero V2 Docs](https://docs.layerzero.network/contracts/overview) for implementing, handling, and debugging LayerZero contracts.
 
